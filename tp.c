@@ -33,7 +33,7 @@ main(int argc, char** argv) {
 
 	/* Master processor */
 	if (my_rank == 0) {
-		
+		printf("test\n");	
 	}
 	
 	/* Shut down MPI */
